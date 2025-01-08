@@ -7,7 +7,7 @@ I'm currently exploring opportunities as a **Data Analyst**, **Business Intellig
 
 ## 📚 Projects  
 Welcome to my portfolio! Here, I showcase diverse projects that highlight my expertise 
-(Portfolio)[https://www.datascienceportfol.io/saisampathkothapalli]
+[Portfolio](https://www.datascienceportfol.io/saisampathkothapalli)
 
 ---
 
