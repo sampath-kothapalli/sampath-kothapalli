@@ -18,7 +18,8 @@ Welcome to my portfolio! Here, I showcase diverse projects that highlight my exp
 
 ### Programming & Analysis  
 - Python (NumPy, Pandas, SciPy)  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)
+- Hypothesis Testing, Statistical Analysis 
 
 ### Business Intelligence  
 - Tableau  
