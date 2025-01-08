@@ -1,26 +1,27 @@
-🙋🏻‍♂️ Introducing Myself
-Hi there 👋 I'm Aditya Shinde, a data science enthusiast 📊. I'm passionate about helping businesses make sense of their data.
+# 🙋🏻‍♂️ About Me  
+Hi there! 👋 I'm **Sampath Kumar**, a passionate **Data Science Enthusiast** with a knack for turning data into actionable insights that drive business success.  
 
-Currently, I am actively seeking opportunities in positions like Data Analyst, Business Intelligence Analyst, and Analytics Engineer.
+I'm currently exploring opportunities as a **Data Analyst**, **Business Intelligence Analyst**, where I can leverage my analytical skills to solve complex challenges and deliver impactful results.  
 
-📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+---
 
-🛠️ Tools
-Database: Google BigQuery, MySQL
-Python: NumPy, Pandas, Scipy, EDA
-Business Intelligence: Tableau, PowerBI, MS Excel
-Hypothesis Testing, Statistics and Probability
+## 📚 Projects  
+Welcome to my portfolio! Here, I showcase diverse projects that highlight my expertise in:  
+- Data analysis  
+- Data visualization  
+- Strategy development  
 
-- 👋 Hi, I’m @sampath-kothapalli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-<!---
-sampath-kothapalli/sampath-kothapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tools & Technologies  
+### Databases  
+- Google BigQuery  
+- MySQL  
+
+### Programming & Analysis  
+- Python (NumPy, Pandas, SciPy)  
+- Exploratory Data Analysis (EDA)  
+
+### Business Intelligence  
+- Tableau  
+- Power BI
