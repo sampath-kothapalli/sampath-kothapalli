@@ -3,14 +3,13 @@ Hi there! 👋 I'm **Sampath Kumar**, a passionate **Data Science Enthusiast** w
 
 I'm currently exploring opportunities as a **Data Analyst**, **Business Intelligence Analyst**, where I can leverage my analytical skills to solve complex challenges and deliver impactful results.  
 
-## 📚 Projects  
+## Projects  
 Welcome to my portfolio! Here, I showcase diverse projects that highlight my expertise 
 [Portfolio](https://github.com/sampath-kothapalli/Portfolio)
 
 ## 🛠️ Tools & Technologies  
 ### Databases  
-- Google BigQuery  
-- MySQL  
+- Google BigQuery & MySQL  
 
 ### Programming & Analysis  
 - Python (NumPy, Pandas, SciPy)  
