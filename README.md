@@ -32,7 +32,34 @@ With a strong foundation in data analysis and visualization, I specialize in ext
 
 ---
 
-### 📌 SQL Projects  
+### 💼 Featured Projects  
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://via.placeholder.com/600x300" alt="CRM Analysis" width="100%">
+      <h3 align="center">
+        <a href="https://github.com/yourusername/crm-analysis">CRM Analysis</a>
+      </h3>
+      <p align="center">Explores customer behavior in an e-commerce dataset, including RFM scoring and segmentation for actionable insights.</p>
+    </td>
+    <td width="50%">
+      <img src="https://via.placeholder.com/600x300" alt="Netflix Visualization" width="100%">
+      <h3 align="center">
+        <a href="https://github.com/yourusername/netflix-visualization">Netflix Visualization for Content Strategy</a>
+      </h3>
+      <p align="center">Analyzing data to generate insights that help Netflix decide on content strategy and expansion.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🔹 SQL Projects  
 
 #### 🛒 **Retail Store Sales Analysis**  
 ![Retail Store](https://via.placeholder.com/600x300)  
@@ -43,7 +70,7 @@ With a strong foundation in data analysis and visualization, I specialize in ext
 
 ---
 
-### 🐍 Python Projects  
+## 🔹 Python Projects  
 
 #### 📊 **E-commerce Data Analysis**  
 ![Ecommerce Analysis](https://via.placeholder.com/600x300)  
@@ -54,7 +81,7 @@ With a strong foundation in data analysis and visualization, I specialize in ext
 
 ---
 
-### 📈 Tableau Projects  
+## 🔹 Tableau Projects  
 
 #### 🎯 **Target Case Study Dashboard**  
 ![Target Dashboard](https://via.placeholder.com/600x300)  
@@ -62,6 +89,7 @@ With a strong foundation in data analysis and visualization, I specialize in ext
 **🔹 Tools:** Tableau  
 **🔹 Project Type:** Data Visualization  
 **🔹 GitHub:** [Repo Link](https://github.com/yourusername/target-case-study)  
+
 
 ---
 
