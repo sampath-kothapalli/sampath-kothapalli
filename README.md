@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="[https://your-image-link.jpg](https://sampath-kothapalli.github.io/myportfolio/static/media/myimage.1d930c2f74cb27de0588.jpg)" width="100%" style="border-radius: 10px;">
+      <img src="https://your-image-link.jpg](https://sampath-kothapalli.github.io/myportfolio/static/media/myimage.1d930c2f74cb27de0588.jpg" width="100%" style="border-radius: 10px;">
     </td>
     <td width="70%">
       <h1>Hi! I'm Sampath Kumar 👋</h1>
