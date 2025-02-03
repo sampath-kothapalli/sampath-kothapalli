@@ -41,7 +41,6 @@
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Databases:** SQL (MySQL, PostgreSQL, Google BigQuery)
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, Regression Models, Classification Models
 - **Business Intelligence:** Customer Segmentation, A/B Testing, Market Analysis
 ---
 
