@@ -21,18 +21,21 @@
   </tr>
 </table>
 ---
+
 ## 🔹 **About Me**
 - 📊 **Aspiring Data Analyst | BI Analyst**
 - 🚀 Passionate about **Data Analytics, SQL, Python, and Business Intelligence**
 - 📈 Experienced in **EDA, Data Visualization, and Predictive Analytics**
 - 🌟 Enthusiastic about solving real-world problems through **data-driven strategies**
 ---
+
 ## 📌 **Projects**
 ### **Explore Projects by Category**
 [![SQL](https://img.shields.io/badge/SQL-Projects-blue?style=for-the-badge)](https://github.com/sampath-kothapalli/sampath-kothapalli/wiki/SQL-Projects)  
 [![Python](https://img.shields.io/badge/Python-Projects-yellow?style=for-the-badge)](https://github.com/sampath-kothapalli/sampath-kothapalli/wiki/Python-Projects)  
 [![Tableau](https://img.shields.io/badge/Tableau-Projects-orange?style=for-the-badge)](https://github.com/sampath-kothapalli/sampath-kothapalli/wiki/Tableau-Projects)  
 ---
+
 ## 💡 **Skills**
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Databases:** SQL (MySQL, PostgreSQL, Google BigQuery)
@@ -40,6 +43,7 @@
 - **Machine Learning:** Scikit-learn, Regression Models, Classification Models
 - **Business Intelligence:** Customer Segmentation, A/B Testing, Market Analysis
 ---
+
 <!-- ## 🎓 **Education**
 📖 **Degree:** [Your Degree]  
 🏛️ **Institution:** [Your Institution]  
