@@ -39,7 +39,7 @@ With a strong foundation in data analysis and visualization, I specialize in ext
 <table>
   <tr>
     <td width="50%">
-      <img src="https://via.placeholder.com/600x300" alt="CRM Analysis" width="100%">
+      <img src="https://sampath-kothapalli.github.io/myportfolio/static/media/python-project-4.3d78de45547964335da0.jpg" alt="CRM Analysis" width="100%">
       <h3 align="center">
         <a href="https://github.com/yourusername/crm-analysis">CRM Analysis</a>
       </h3>
