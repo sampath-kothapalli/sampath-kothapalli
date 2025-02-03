@@ -20,6 +20,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🔹 **About Me**
@@ -51,7 +52,7 @@
 ---
  -->
 ## 📞 **Contact Me**
-📩 **Email:** [Your Email](saisampath.kothapalli@gmail.com)
+📩 **Email: saisampath.kothapalli@gmail.com** 
 📞 **Phone: +91 - 9000411575**
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sampath-kumar/)  
-💻 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
+🔗 **LinkedIn:** [Sampath Kumar](https://www.linkedin.com/in/sampath-kumar-bb519b160/)  
+💻 **GitHub:** [Profile](https://github.com/sampath-kothapalli)  
