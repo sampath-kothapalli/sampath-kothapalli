@@ -32,10 +32,10 @@
 ---
 
 ## 📌 **Projects**
-### Explore Projects by Category:
-[![SQL](https://img.shields.io/badge/SQL-Projects-blue?style=for-the-badge)](#sql-projects)
-[![Python](https://img.shields.io/badge/Python-Projects-yellow?style=for-the-badge)](#python-projects)
-[![Tableau](https://img.shields.io/badge/Tableau-Projects-orange?style=for-the-badge)](#tableau-projects)
+### **Explore Projects by Category**
+[![SQL](https://img.shields.io/badge/SQL-Projects-blue?style=for-the-badge)](https://github.com/sampath-kothapalli/sampath-kothapalli/wiki/SQL-Projects)  
+[![Python](https://img.shields.io/badge/Python-Projects-yellow?style=for-the-badge)](https://github.com/sampath-kothapalli/sampath-kothapalli/wiki/Python-Projects)  
+[![Tableau](https://img.shields.io/badge/Tableau-Projects-orange?style=for-the-badge)](https://github.com/sampath-kothapalli/sampath-kothapalli/wiki/Tableau-Projects)  
 
 ---
 
