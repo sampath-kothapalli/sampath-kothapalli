@@ -32,7 +32,7 @@
 
 ## 📌 **Projects**
 ### **Explore Projects by Category**
-[![SQL](https://img.shields.io/badge/SQL-Projects-blue?style=for-the-badge)](https://github.com/sampath-kothapalli/Portfolio?tab=readme-ov-file#sql)  
+[![SQL](![Static Badge](https://img.shields.io/badge/SQL-blue))](https://github.com/sampath-kothapalli/Portfolio?tab=readme-ov-file#sql)  
 [![Python](https://img.shields.io/badge/Python-Projects-yellow?style=for-the-badge)](https://github.com/sampath-kothapalli/Portfolio?tab=readme-ov-file#python)  
 [![Tableau](https://img.shields.io/badge/Tableau-Projects-orange?style=for-the-badge)](https://github.com/sampath-kothapalli/Portfolio?tab=readme-ov-file#tableau)  
 ---
