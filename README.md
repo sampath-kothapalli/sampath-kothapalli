@@ -1,13 +1,28 @@
 <div align="center">
-  <img src="https://your-image-link.jpg" width="200" height="200" style="border-radius: 50%;">
-  <h3>Welcome to my Portfolio</h3>
+  <h2>Welcome to my Portfolio</h2>
 </div>
 
-# Hi! I'm **Sampath Kumar** 👋  
-
-I am a **data enthusiast** driven by a passion for transforming raw data into **actionable insights** that drive business success. My journey into **data analytics** stems from a deep curiosity to solve complex challenges and uncover meaningful trends.
-
-Looking ahead, I am eager to take on a **Data Analyst role**, where I can combine my **technical skills, analytical mindset, and collaborative approach** to deliver impactful business outcomes. I’m dedicated to continuous learning and am excited to contribute to the **data-driven transformation** of businesses.  
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://your-image-link.jpg" width="100%" style="border-radius: 10px;">
+    </td>
+    <td width="70%">
+      <h1>Hi! I'm Sampath Kumar 👋</h1>
+      <p>
+        I am a <strong>data enthusiast</strong> driven by a passion for transforming raw data into <strong>actionable insights</strong> 
+        that drive business success. My journey into <strong>data analytics</strong> stems from a deep curiosity to solve 
+        complex challenges and uncover meaningful trends.
+      </p>
+      <p>
+        Looking ahead, I am eager to take on a <strong>Data Analyst role</strong>, where I can combine my 
+        <strong>technical skills, analytical mindset, and collaborative approach</strong> to deliver impactful 
+        business outcomes. I’m dedicated to continuous learning and excited to contribute to the 
+        <strong>data-driven transformation</strong> of businesses.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
