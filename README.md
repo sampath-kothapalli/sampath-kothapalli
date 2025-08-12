@@ -9,9 +9,7 @@
       <p>
         I’m an experienced <strong>Data Analyst at Bidgely</strong>, working at the intersection of 
         <strong>energy, analytics, and AI</strong> to transform complex energy consumption data into 
-        <strong>actionable insights</strong>. At Bidgely, I leverage tools like <strong>SQL, Python, and Tableau</strong> 
-        to analyze large-scale datasets, evaluate usage patterns, track program performance, and support 
-        <strong>data-driven decision-making</strong> for utility companies optimizing their energy efficiency programs.
+        <strong>actionable insights</strong>. 
       </p>
       <p>
         My work focuses on turning raw data into clear, compelling stories that drive business outcomes. 
@@ -29,10 +27,11 @@
 ---
 
 ## 🔹 **About Me**
-- 📊 **Data Analyst @ Bidgley Tehnologies**
-- 🚀 Passionate about **Data Analytics, SQL, Python, and Business Intelligence**
-- 📈 Experienced in **EDA, Data Visualization, and Predictive Analytics**
-- 🌟 Enthusiastic about solving real-world problems through **data-driven strategies**
+- 📊 **Data Analyst @ Bidgely Technologies** – specializing in **energy data aggregation and analytics** for utility companies.  
+- 🛠 Skilled in **SQL, Python, Excel and Tableau** tools to transform complex datasets into actionable insights.  
+- 📈 Experienced in **Exploratory Data Analysis (EDA)**, **data visualization**, **customer segmentation**, **CLV modeling**, and **predictive analytics**.  
+- 📊 Proficient in **statistical analysis**, including hypothesis testing, regression, and trend forecasting.  
+- 🌟 Passionate about leveraging **data-driven strategies** to optimize energy efficiency programs, improve decision-making, and drive measurable business outcomes.  
 ---
 
 ## 📌 **Projects**
